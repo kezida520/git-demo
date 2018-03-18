@@ -4,7 +4,7 @@ import './App.css';
 
 class Demo extends Component {
   render() {
-    // 分支test的萨芬
+    // 分支test
     return <div></div>;
   }
 }
