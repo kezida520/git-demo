@@ -4,7 +4,7 @@ import './App.css';
 
 class Demo extends Component {
   render() {
-    // dev分支
+    // dev分支所发生的
     return <div></div>;
   }
 }
