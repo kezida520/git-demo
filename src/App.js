@@ -4,7 +4,7 @@ import './App.css';
 
 class Demo extends Component {
   render() {
-    // branch-test
+    // 分支test
     return <div></div>;
   }
 }
